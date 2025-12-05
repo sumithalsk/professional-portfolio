@@ -1,9 +1,1 @@
-# Vercel Deployment Configuration
-# This file enables easy deployment to Vercel
-
-{
-  "buildCommand": "npm run build",
-  "outputDirectory": "dist",
-  "devCommand": "npm run dev",
-  "installCommand": "npm install"
-}
+{}
